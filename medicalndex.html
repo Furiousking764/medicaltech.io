@@ -1,8 +1,9 @@
+
 <!DOCTYPE html>
 <html lang="en-US" class="hide-scroll">
 <head> 
     <meta name="google-site-verification" content="d8tq9GwlQ-zNvzXfCv1QAvrRB2_cHbcjJhSZzdcwdaQ" />
-    <title>Modern medicine HTML Template Live Demo</title>
+    <title>Solar energy company HTML Template Live Demo</title>
     <meta name="Keywords">
     <meta name="Description">
     
@@ -480,10 +481,10 @@ var shareasaleSSCID=shareasaleGetParameterByName("sscid");function shareasaleSet
         <a class="hidden-xs" href="#" id="previewTabletBtn" data-preview-size="820px"><img alt="Responsive Tablet Mode" src="//csite.nicepage.com/Images/Site/responsive-tablet.png"></a>
         <a class="hidden-xs" href="#" id="previewPhoneHorizontalBtn" data-preview-size="640px"><img alt="Responsive Phone Horizontal Mode" src="//csite.nicepage.com/Images/Site/responsive-phone-horizontal.png"></a>
         <a class="hidden-xs" href="#" id="previewPhoneBtn" data-preview-size="440px"><img alt="Responsive Phone Mode" src="//csite.nicepage.com/Images/Site/responsive-phone.png"></a>
-        <a class="close" href="/ht/1081836/modern-medicine-html-template"><img alt="Close" src="//csite.nicepage.com/Images/Site/icon-close.png"></a>
+        <a class="close" href="/ht/5213148/solar-energy-company-html-template"><img alt="Close" src="//csite.nicepage.com/Images/Site/icon-close.png"></a>
     </div>
     <div class="page-preview-body">
-        <iframe id="livePreviewFrame" src="https://website1081830.nicepage.io/About.html?version=ccb4e13f-dd71-46f6-bb4e-d463bd967bf7" width="1057" height="640" style="width:100%;"></iframe>
+        <iframe id="livePreviewFrame" src="https://website2260892.nicepage.io/Landing.html?version=12735775-08a2-473a-b17b-05d4accf510f" width="1057" height="640" style="width:100%;"></iframe>
     </div>
 </div>
 <a style="position:absolute;top:17px;left:10px;" href="/"><img alt="NicePage.com" src="//csite.nicepage.com/Images/logo-w.png"></a>
